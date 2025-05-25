@@ -28,7 +28,7 @@ body {
 */
 
 :root {
-	background-image: url("@/../public/space_2.jpg");
+	background-image: url("../../public/space_2.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
