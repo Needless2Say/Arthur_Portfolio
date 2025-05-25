@@ -55,9 +55,9 @@ export default function About() {
                             <br />
                             <br />
 
-                            I am also working on my personal project where I am developing several applications, such as a calorie tracker and my sister's own personal buisness.
+                            I am also working on my personal project where I am developing several applications, such as a calorie tracker and my sister&apos;s own personal buisness.
                             I am using Next.js for the front end, FastAPI for the back end, and PostrgreSQL for the database.
-                            I've been heavily invested in fitness and coding for years, and I am working everyday to grow my techstack and knowledge so I can make more applications to help people make their lives easier.
+                            I&apos;ve been heavily invested in fitness and coding for years, and I am working everyday to grow my techstack and knowledge so I can make more applications to help people make their lives easier.
                         </p>
                     </div>
                 </div>
